@@ -100,8 +100,8 @@
 
 
 $servername = "localhost";
-$username = "Kev_db_users3";
-$password = "1ym3foOSGJd5KYjT35V";
+$username = "";
+$password = "";
 $db_name = "beautify_me";
 
 
